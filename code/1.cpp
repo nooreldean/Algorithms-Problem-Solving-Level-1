@@ -13,5 +13,6 @@ int main()
 {
   
     printName("nooreldean");
+    return 0;   
     
 }
